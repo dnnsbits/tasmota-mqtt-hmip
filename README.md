@@ -1,5 +1,5 @@
-# hmip-mqtt-tasmota
-Hommatic IP Tasmota Anbindung mit MQTT
+# tasmota-mqtt-hmip
+TAsmota via MQTT an Hommatic IP Anbindung
 
 ## Voraussetzung
 
